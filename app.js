@@ -42,7 +42,8 @@ app.get('/:string',function(req,res){
     res.json(object);
 });
 
-app.listen(8080, function () {
+var port = process.env.PORT || 8080;
+app.listen(port, function () {
   console.log('App listening on port 8080!');
 })
 
