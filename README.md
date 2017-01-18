@@ -30,4 +30,4 @@ jan17,2017</span>
 </td>
 </tr>
 </table>
-<h4>Demo: <a href="https://github.com/matosalexander/timestamp.api" target="_blank">https://github.com/matosalexander/timestamp.api</a></h4>
+<h4>Demo: <a href="https://timestampmicroservice-api.herokuapp.com/" target="_blank">timestampmicroservice-api</a></h4>
